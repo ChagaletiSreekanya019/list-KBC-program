@@ -1,0 +1,6 @@
+ile=open("bank_names.txt","w")
+# file.write("kotak\nhdfc\nrbl\nsbi\nsbi\nbank of baroda") 
+# file.close() 
+# file=open("bank_names.txt","r") 
+# c=file.read()
+# print(c)
